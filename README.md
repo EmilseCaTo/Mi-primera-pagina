@@ -44,8 +44,7 @@ nombre = "Emilse"
 edad = 37
 ciudad = "Arboletes"
 
-*Mostramos la información en pantalla*
-
+# Mostramos la información en pantalla
 print("Hola,", nombre)
 print("Tienes", edad, "años")
 print("Vives en", ciudad)
