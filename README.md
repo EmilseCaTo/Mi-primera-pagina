@@ -18,3 +18,8 @@ Los lenguajes de programación pueden ser clasificados de acuerdo a como son usa
 
 <img width="645" height="730" alt="17626666927418050470232185043983" src="https://github.com/user-attachments/assets/6d6bd846-b848-4bc4-bee0-814cfe8838fa" />
 
+
+## Reflexión personal
+
+Aprendí a crear mi primera página web usando GitHub Pages.
+Esta herramienta me permite mostrar mis proyectos y aprendizajes en línea.
