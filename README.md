@@ -30,9 +30,9 @@ Un programa es una secuencia de pasos que resuelven un problema o realizan una a
 ## ¿Qué son las variables en Python?
 Una variable es un espacio en la memoria donde se guarda un dato (como un número, texto o valor lógico) para poder usarlo más adelante en el programa.
 
--Se les da un nombre.
--Pueden cambiar de valor durante la ejecución del programa.
+* Se les da un nombre.
 
+* Pueden cambiar de valor durante la ejecución del programa.
 
 **Ejemplo:**
 
