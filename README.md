@@ -39,11 +39,13 @@ Pueden cambiar de valor durante la ejecución del programa.
 **Este es un pequeño programa en Python**
 
 *Definimos variables*
+
 nombre = "Emilse"
 edad = 37
 ciudad = "Arboletes"
 
 *Mostramos la información en pantalla*
+
 print("Hola,", nombre)
 print("Tienes", edad, "años")
 print("Vives en", ciudad)
