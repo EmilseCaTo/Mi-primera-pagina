@@ -1,4 +1,4 @@
-# Mi-primera-pagina
+# Mi primera pagina
 
 ## Tema visto en clase
 Un **programa** es un conjunto de instrucciones que una computadora puede ejecutar.  
