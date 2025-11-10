@@ -41,13 +41,19 @@ Una variable es un espacio en la memoria donde se guarda un dato (como un númer
 *Definimos variables*
 
 nombre = "Emilse" 
+
 edad = 37 
+
 ciudad = "Arboletes" 
 
 *Mostramos la información en pantalla*
+
 print("Hola,", nombre) 
+
 print("Tienes", edad, "años") 
+
 print("Vives en", ciudad) 
+
 
 **Explicación del ejemplo:** 
 
@@ -58,6 +64,9 @@ Cada una guarda un valor distinto: un texto o un número.
 print() sirve para mostrar los datos en pantalla.
 
 Todo el bloque de código completo es un programa en Python.
+
+![17627333360648760087806286263097](https://github.com/user-attachments/assets/9acc4abd-a0a4-4631-b241-e5e705e4f395)
+
 
 ## Reflexión personal
 Aprendí a crear mi primera página web usando GitHub Pages.
