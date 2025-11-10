@@ -40,14 +40,14 @@ Una variable es un espacio en la memoria donde se guarda un dato (como un númer
 
 *Definimos variables*
 
-nombre = "Emilse"
-edad = 37
-ciudad = "Arboletes"
+nombre = "Emilse" 
+edad = 37 
+ciudad = "Arboletes" 
 
 *Mostramos la información en pantalla*
-print("Hola,", nombre)
-print("Tienes", edad, "años")
-print("Vives en", ciudad)
+print("Hola,", nombre) 
+print("Tienes", edad, "años") 
+print("Vives en", ciudad) 
 
 **Explicación del ejemplo:** 
 
@@ -65,7 +65,8 @@ Esta herramienta me permite mostrar mis proyectos y aprendizajes en línea.
 Además, practicar con ejemplos en Python refuerza mis conocimientos sobre lógica y resolución de problemas.
 
 
-## Transparencia: Parte de este contenido fue redactado con apoyo de ChatGPT para mejorar la redacción y presentación del material.
+## Transparencia: 
+Parte de este contenido fue redactado con apoyo de ChatGPT para mejorar la redacción y presentación del material.
 
 ### Referencias de IA
 - ChatGPT: conversación sobre Que es un programa y variables en Python (https://chatgpt.com/share/69112234-ef64-8001-b146-d90dfa358b76)
