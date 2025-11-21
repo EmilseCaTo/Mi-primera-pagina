@@ -1,83 +1,88 @@
-# Mi primera pagina
+# My First Page
 
-## Tema visto en clase
+## Topic Covered in Class
 
-## Lenguaje de programación 
+## Programming Language
 
-Un lenguaje de programación es un lenguaje formal (o artificial, es decir, un lenguaje con reglas gramaticales bien definidas) que le proporciona a una persona, en este caso el programador, la capacidad de escribir (o programar) una serie de instrucciones o secuencias de órdenes en forma de algoritmos, con el fin de controlar el comportamiento físico o lógico de una computadora, de manera que se puedan obtener diversas clases de datos o ejecutar determinadas tareas. A todo este conjunto de órdenes escritas mediante un lenguaje de programación se le denomina programa.
+A programming language is a formal language (or artificial language, that is, a language with well-defined grammatical rules) that gives a person, in this case the programmer, the ability to write (or program) a series of instructions or sequences of commands in the form of algorithms, in order to control the physical or logical behavior of a computer, so that various kinds of data can be obtained or specific tasks can be executed. This entire set of commands written using a programming language is called a program.
 
-## Tipos de Lenguajes de Programación
+## Types of Programming Languages
 
-Los lenguajes de programación pueden ser clasificados de acuerdo a como son usados por la máquina o sistema operativo:
+Programming languages can be classified according to how they are used by the machine or operating system:
 
-**Interpretados:** las instrucciones son traducidas una a una por una aplicación (intérprete). Ejemplos: Python, Perl, Bash.
+**Interpreted:** the instructions are translated one by one by an application (interpreter). Examples: Python, Perl, Bash.
 
-**Compilados:** las instrucciones son traducidas en grupo por una aplicación (compilador). Ejemplos: Fortran, C/C++.
+**Compiled:** the instructions are translated as a group by an application (compiler). Examples: Fortran, C/C++.
 
-**Intermedios:** en parte compilados, en parte interpretados. Ejemplos: Java, Scala.
+**Intermediate:** Partly compiled, partly interpreted. Examples: Java, Scala.
 
 <img width="645" height="730" alt="17626666927418050470232185043983" src="https://github.com/user-attachments/assets/6d6bd846-b848-4bc4-bee0-814cfe8838fa" />
 
+## What is a Python program?
 
-## ¿Qué es un programa en Python?
-Un programa en Python es un conjunto de instrucciones escritas en este lenguaje que le dicen a la computadora qué hacer.
-Estas instrucciones pueden realizar tareas como calcular, guardar datos, mostrar mensajes o tomar decisiones.
+A Python program is a set of instructions written in this language that tells the computer what to do.
 
-**En otras palabras:**
+These instructions can perform tasks such as calculating, storing data, displaying messages, or making decisions.
 
-Un programa es una secuencia de pasos que resuelven un problema o realizan una acción específica.
+**In other words:**
 
-## ¿Qué son las variables en Python?
-Una variable es un espacio en la memoria donde se guarda un dato (como un número, texto o valor lógico) para poder usarlo más adelante en el programa.
+A program is a sequence of steps that solve a problem or perform a specific action.
 
-* Se les da un nombre.
+## What are variables in Python?
 
-* Pueden cambiar de valor durante la ejecución del programa.
+A variable is a space in memory where data (such as a number, text, or Boolean value) is stored for later use in the program.
 
-**Ejemplo:**
+* They are given a name.
 
-**Este es un pequeño programa en Python**
+* Their value can change during program execution.
 
-*Definimos variables*
+**Example:**
 
-nombre = "Emilse" 
+**This is a small Python program**
 
-edad = 37 
+*We define variables*
 
-ciudad = "Arboletes" 
+name = "Emilse"
 
+age = 37
 
-*Mostramos la información en pantalla*
+city = "Arboletes"
 
-print("Hola,", nombre) 
+*We display the information on the screen*
 
-print("Tienes", edad, "años") 
+print("Hello,", name)
 
-print("Vives en", ciudad) 
+print("You are", age, "years")
 
+print("You live in", city)
 
+**Explanation of the example:**
 
-**Explicación del ejemplo:** 
+name, age, and city are variables.
 
-nombre, edad y ciudad son variables.
+Each one stores a different value: text or a number.
 
-Cada una guarda un valor distinto: un texto o un número.
+print() is used to display the data on the screen.
 
-print() sirve para mostrar los datos en pantalla.
-
-Todo el bloque de código completo es un programa en Python.
+The entire code block is a Python program.
 
 ![17627333360648760087806286263097](https://github.com/user-attachments/assets/9acc4abd-a0a4-4631-b241-e5e705e4f395)
 
+## Personal Reflection
+I learned to create my first website using GitHub Pages.
 
-## Reflexión personal
-Aprendí a crear mi primera página web usando GitHub Pages.
-Esta herramienta me permite mostrar mis proyectos y aprendizajes en línea.
-Además, practicar con ejemplos en Python refuerza mis conocimientos sobre lógica y resolución de problemas.
+This tool allows me to showcase my projects and learning online.
 
+Furthermore, practicing with Python examples reinforces my knowledge of logic and problem-solving.
 
-## Transparencia: 
-Parte de este contenido fue redactado con apoyo de ChatGPT para mejorar la redacción y presentación del material.
+## Transparency:
+Part of this content was written with the help of ChatGPT to improve the writing and presentation of the material.
 
-### Referencias de IA
-- ChatGPT: conversación sobre Que es un programa y variables en Python (https://chatgpt.com/share/69112234-ef64-8001-b146-d90dfa358b76)
+### AI References
+- ChatGPT: Conversation about What is a program and variables in Python (https://chatgpt.com/share/69112234-ef64-8001-b146-d90dfa358b76)
+
+blog/
+
+blog/tarea2_unidad1.md
+
+ 
