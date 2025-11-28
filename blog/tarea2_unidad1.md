@@ -3,7 +3,7 @@
 
 <p align="justify">
 En esta entrada presento las soluciones correspondientes a los ejercicios de la Unidad 1, donde se trabaja el pensamiento algorítmico básico mediante el uso de instrucciones, simulación y programación en Python. Los retos se resolvieron aplicando conceptos como entrada de datos, ciclos, funciones y representaciones simples del movimiento.
-</p>
+</p> 
 
 ---
 
@@ -64,5 +64,32 @@ print(" " * horizontal + "v")
 
 ---
 
+# Reto 4 – Movimientos usando funciones
 
+<p align="justify"> En este último ejercicio se pide modular el programa mediante el uso de funciones. La idea es que los movimientos hacia adelante y hacia abajo sean reutilizables, mejorando la organización y legibilidad del código. </p>
+
+### ✔ Mi solución en Python
+
+# Reto 4: Movimientos usando funciones
+
+def adelante(n):
+    print("-" * n + ">")
+
+def abajo(n, offset=0):
+    for i in range(n):
+        print(" " * offset + "|")
+    print(" " * offset + "v")
+
+# Solicitar datos
+h = int(input("¿Cuántos pasos avanza la tortuga? "))
+v = int(input("¿Cuántos pasos baja luego de girar? "))
+
+# Ejecutar movimientos
+adelante(h)
+abajo(v, offset=h)
+
+---
+
+## Reflexión sobre lo aprendido
+<p align="justify"> Resolver estos retos permitió fortalecer la comprensión del uso de variables, ciclos, entrada de datos y funciones en Python. Además, el uso de representaciones mediante caracteres ayuda a visualizar el flujo de control y la lógica detrás de cada algoritmo. Estas actividades son fundamentales para el desarrollo de habilidades de pensamiento algorítmico. </p>
 
