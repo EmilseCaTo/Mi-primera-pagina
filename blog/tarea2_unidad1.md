@@ -22,7 +22,7 @@ pasos = int(input("¿Cuántos pasos avanza la tortuga? "))
 
 print("Movimiento:")
 print("-" * pasos + ">")   # Representa el movimiento hacia adelante
-
+Python ```
 
 
 
