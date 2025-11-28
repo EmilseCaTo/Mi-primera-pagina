@@ -31,7 +31,7 @@ print("-" * pasos + ">")   # Representa el movimiento hacia adelante
 
 <p align="justify"> El objetivo es simular el movimiento descendente de la tortuga. Para lograrlo se imprime una línea vertical por cada paso hacia abajo, finalizando con una flecha que indica dirección. </p>
 
-### ✔ Mi solución en Python 
+### Mi solución en Python 
 
 ```python 
 
@@ -50,7 +50,7 @@ print("  v")
 
 <p align="justify"> En este reto se integra un giro a la derecha y se continúa el trazo horizontal. Se busca representar un movimiento combinado simulando un cambio de orientación. </p>
 
-### ✔ Mi solución en Python
+### Mi solución en Python
 ```python
 # Reto 3: Giro y trazo horizontal
 
@@ -72,7 +72,7 @@ print(" " * horizontal + "v")
 
 <p align="justify"> En este último ejercicio se pide modular el programa mediante el uso de funciones. La idea es que los movimientos hacia adelante y hacia abajo sean reutilizables, mejorando la organización y legibilidad del código. </p>
 
-### ✔ Mi solución en Python
+### Mi solución en Python
 ```python
 # Reto 4: Movimientos usando funciones
 
