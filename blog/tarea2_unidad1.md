@@ -16,7 +16,7 @@ En este ejercicio se debe simular el movimiento hacia adelante de una tortuga ut
 ### Mi solución en Python 
 
 
-
+---
 
 # Reto 2 - 
 
@@ -28,7 +28,7 @@ En este ejercicio se debe simular el movimiento hacia adelante de una tortuga ut
 ### Mi solución en Python 
 
 
-
+---
 
 # Reto 3 - 
 
@@ -38,6 +38,7 @@ En este ejercicio se debe simular el movimiento hacia adelante de una tortuga ut
 ### Mi solución en Python 
 
 
+---
 
 # Reto 4 - 
 
@@ -45,6 +46,8 @@ En este ejercicio se debe simular el movimiento hacia adelante de una tortuga ut
 
 ### Mi solución en Python 
 
+
+---
 
 
 
