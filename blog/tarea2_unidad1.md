@@ -15,12 +15,15 @@ En este ejercicio se debe simular el movimiento hacia adelante de una tortuga ut
 
 ### Mi solución en Python 
 
+```python 
+
 # Reto 1: Tortuga avanzando con print e input
 
 pasos = int(input("¿Cuántos pasos avanza la tortuga? "))
 
 print("Movimiento:")
 print("-" * pasos + ">")   # Representa el movimiento hacia adelante
+```
 
 ---
 
