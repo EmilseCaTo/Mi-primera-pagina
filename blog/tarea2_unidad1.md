@@ -33,6 +33,8 @@ print("-" * pasos + ">")   # Representa el movimiento hacia adelante
 
 ### ✔ Mi solución en Python 
 
+```python 
+
 # Reto 2: Tortuga bajando
 
 pasos = int(input("¿Cuántos pasos baja la tortuga? "))
@@ -41,7 +43,7 @@ print("Tortuga bajando:")
 for i in range(pasos):
     print("  |")
 print("  v")
-
+```
 ---
 
 # Reto 3 – Giros y movimientos
@@ -49,7 +51,7 @@ print("  v")
 <p align="justify"> En este reto se integra un giro a la derecha y se continúa el trazo horizontal. Se busca representar un movimiento combinado simulando un cambio de orientación. </p>
 
 ### ✔ Mi solución en Python
-
+```python
 # Reto 3: Giro y trazo horizontal
 
 horizontal = int(input("¿Cuántos pasos avanza horizontalmente? "))
@@ -63,7 +65,7 @@ for i in range(vertical):
     print(" " * horizontal + "|")
 
 print(" " * horizontal + "v")
-
+```
 ---
 
 # Reto 4 – Movimientos usando funciones
@@ -71,7 +73,7 @@ print(" " * horizontal + "v")
 <p align="justify"> En este último ejercicio se pide modular el programa mediante el uso de funciones. La idea es que los movimientos hacia adelante y hacia abajo sean reutilizables, mejorando la organización y legibilidad del código. </p>
 
 ### ✔ Mi solución en Python
-
+```python
 # Reto 4: Movimientos usando funciones
 
 def adelante(n):
@@ -89,7 +91,7 @@ v = int(input("¿Cuántos pasos baja luego de girar? "))
 # Ejecutar movimientos
 adelante(h)
 abajo(v, offset=h)
-
+```
 ---
 
 ## Reflexión sobre lo aprendido
