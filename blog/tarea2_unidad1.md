@@ -13,3 +13,41 @@ En esta entrada presento las soluciones correspondientes a los ejercicios de la 
 En este ejercicio se debe simular el movimiento hacia adelante de una tortuga utilizando únicamente instrucciones de impresión <code>print()</code> y lectura de datos con <code>input()</code>. El objetivo es representar el movimiento con símbolos en pantalla.
 </p>
 
+### Mi solución en Python 
+
+
+
+
+# Reto 2 - 
+
+
+
+
+
+
+### Mi solución en Python 
+
+
+
+
+# Reto 3 - 
+
+
+
+
+### Mi solución en Python 
+
+
+
+# Reto 4 - 
+
+
+
+### Mi solución en Python 
+
+
+
+
+
+
+
