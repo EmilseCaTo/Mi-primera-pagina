@@ -1,0 +1,6 @@
+mini_turtle_task/
+│── mini_turtle/
+│   │── __init__.py
+│   │── drawer_logic.py
+│── main.py
+│── README.md
