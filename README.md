@@ -81,6 +81,10 @@ Part of this content was written with the help of ChatGPT to improve the writing
 ### AI References
 - ChatGPT: Conversation about What is a program and variables in Python (https://chatgpt.com/share/69112234-ef64-8001-b146-d90dfa358b76)
 
+- ##Tarea Mini-Turtle
+- Link 1: https://github.com/EmilseCaTo/Tortuga-1.git
+- Link 2: https://github.com/EmilseCaTo/Tortuga-2.git 
+
 
 
  
